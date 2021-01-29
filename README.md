@@ -1,4 +1,3 @@
-# Cstudy011
 #include <stdio.h>
 
 int main(void)
